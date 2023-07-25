@@ -1,8 +1,8 @@
 //first challenge
 
-var base = prompt('enter value of base');
-var height = prompt('enter value of height');
+var length = prompt('enter value of length');
+var width = prompt('enter value of width');
 
-  var answer = 0.5 * base * height;
+  var answer = length * width;
  
 console.log('the area is ' + answer);
